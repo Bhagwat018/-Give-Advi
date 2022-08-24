@@ -1,0 +1,29 @@
+#frist{
+    height: 500px ;
+    width: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.secand{
+    height: 200px;
+    width: 500px;
+    background-color: transparent;
+    box-shadow: 0px 4px 6px  black;
+    color: white;
+    display: flex;
+    justify-content: center;
+   flex-flow: column;
+ 
+    align-items: center;
+
+}
+.secand button{
+    border-radius: 12px;
+    background-color: transparent;
+    color: white;
+    padding: 5px;
+    margin-top: 20px;
+}

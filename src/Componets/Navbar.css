@@ -1,0 +1,17 @@
+.main{
+    height: 70px ;
+    background-color: transparent;
+    background-color:  #15161f ;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+    align-items: flex-end;
+
+}
+.main a{
+    margin:  0px 80px;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight:bold;
+}

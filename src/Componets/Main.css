@@ -1,0 +1,60 @@
+
+
+.contanier {
+        width: 100vw;
+    height: auto;
+    background-size: contain;
+     background: radial-gradient(ellipse at bottom, #28405f 0%, #0c0d13 100%);
+  
+  }
+  .same{
+    color: white;
+
+  }
+  #rama1{color: rgb(242, 81, 32);
+    font-size: x-large;
+    font-weight: bold;
+
+  }
+  #rama{
+ color: white;
+ margin-left: 80px;
+
+ 
+ font-size: x-large;
+ font-weight: bold;
+  }
+  .col-lg-6{
+    margin-top: 300px;
+  }
+  #imggg{
+    height: 350px ;
+    width: 400px;
+    margin-left: 200px;
+  }
+  @media screen and ( min-width: 400px)
+  {
+    #imggg{
+        height: 250px ;
+        width: 300px;
+        margin-left: 200px;
+        text-align: center;
+    
+      }
+      .col-lg-6{
+        margin-top: 100px;
+      }
+  }
+  #imggg {
+    animation: MoveUpDown 8s linear infinite;
+  
+  }
+  
+  @keyframes MoveUpDown {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-30px);
+    }
+  }
