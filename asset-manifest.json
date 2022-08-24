@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-Give-Advi/static/css/main.d42f2c65.css",
+    "main.js": "/-Give-Advi/static/js/main.5b6ae084.js",
+    "static/js/787.28cb0dcd.chunk.js": "/-Give-Advi/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/-Give-Advi/index.html",
+    "main.d42f2c65.css.map": "/-Give-Advi/static/css/main.d42f2c65.css.map",
+    "main.5b6ae084.js.map": "/-Give-Advi/static/js/main.5b6ae084.js.map",
+    "787.28cb0dcd.chunk.js.map": "/-Give-Advi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42f2c65.css",
+    "static/js/main.5b6ae084.js"
+  ]
+}
